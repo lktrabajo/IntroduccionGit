@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color:white;
+    background-color: blue;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+p{
+    color: darkgreen;
+    font-family: Verdana;
+    text-align: justify;
+}
